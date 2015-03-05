@@ -10,7 +10,7 @@ public class AppTest {
 	@Test
 	public void test() {
 		String[] args = {};
-	
+	    int a;
 		App.main(args);
 	}
 }
