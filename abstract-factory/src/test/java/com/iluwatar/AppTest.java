@@ -3,6 +3,8 @@ import org.junit.Test;
 
 import com.iluwatar.App;
 
+
+// this is just a comment to test a change from git
 public class AppTest {
 
 	@Test
