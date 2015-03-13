@@ -8,6 +8,8 @@ public class AppTest {
 	public void test() {
 		String[] args = {};
         String[] arg3 = {};
+
+        String[] arg4 = {};
 		App.main(args);
 	}
 }
