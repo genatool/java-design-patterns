@@ -7,7 +7,7 @@ public class AppTest {
 	@Test
 	public void test() {
 		String[] args = {};
-        String[] args2 = {};
+        String[] arg3 = {};
 		App.main(args);
 	}
 }
