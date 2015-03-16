@@ -15,4 +15,9 @@ public class AppTest {
         String[] args = {};
         App.main(args);
     }
+    @Test
+    public void test3() {
+        String[] args = {};
+        App.main(args);
+    }
 }
