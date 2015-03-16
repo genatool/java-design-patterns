@@ -13,6 +13,7 @@ public class AppTest {
 	    int a;
         String test;
         int b =10;
+        int c = b;
 		App.main(args);
 	}
 }
