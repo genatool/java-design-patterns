@@ -8,6 +8,7 @@ public class AppTest {
 	public void test() {
 		String[] args = {};
         String[] args5 = {};
+
 		App.main(args);
 	}
 }
