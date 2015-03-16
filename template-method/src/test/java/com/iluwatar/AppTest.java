@@ -9,4 +9,10 @@ public class AppTest {
 		String[] args = {};
 		App.main(args);
 	}
+
+    @Test
+    public void test2() {
+        String[] args = {};
+        App.main(args);
+    }
 }
