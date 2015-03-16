@@ -8,7 +8,7 @@ public class AppTest {
 	public void test() {
 		String[] args = {};
 
-        String Maynard = "maynard6";
+        String Maynard = "maynard56";
 		App.main(args);
 	}
 }
