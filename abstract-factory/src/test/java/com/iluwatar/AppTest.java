@@ -16,4 +16,13 @@ public class AppTest {
         int c = b;
 		App.main(args);
 	}
+    @Test
+    public void test2() {
+        String[] args = {};
+        int a;
+        String test;
+        int b =10;
+        int c = b;
+        App.main(args);
+    }
 }
