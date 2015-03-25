@@ -11,7 +11,7 @@ public class AppTest {
 		App.main(args);
 	}
     @Test
-    public void test3() {
+    public void test4() {
         String[] args = {};
         String test = "test6";
         App.main(args);
